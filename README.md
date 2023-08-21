@@ -21,10 +21,3 @@ The [chatApp](https://chatapp-420.herokuapp.com) is hosted using Heroku.
 
 ## Setting Up The Project For Development
 Check out [**SETUP.md**](./SETUP.md)
-
-## Contributors
-<br>
-<a href="https://github.com/osBins/chatApp/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=osBins/chatApp" />
-</a>
-<br>
